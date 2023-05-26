@@ -34,6 +34,8 @@
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-soares-andrade/" Target="_blank" rel=”noopener” ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://wa.me/5521971015422" Target="_blank" rel=”noopener” ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a> 
 </div>
+<br>
 
+## ![snake gif](https://github.com/soares-vinicius/soares-vinicius/blob/output/github-contribution-grid-snake.svg)
 
 
