@@ -1,4 +1,4 @@
-## Ola 
+## Olá, Sou Vinícius
 - 🔥 Front End Developer
 - 🔭 I’m currently working at Freelancer
 - 💬 Ask me about **JavaScript, HTML, CSS, VueJS, React**
