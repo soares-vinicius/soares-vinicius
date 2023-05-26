@@ -1,4 +1,4 @@
-## Olá, Sou Vinícius
+## Oi, Eu sou o Niu.
 - 🔥 Front End Developer
 - 🔭 I’m currently working at Freelancer
 - 💬 Ask me about **JavaScript, HTML, CSS, VueJS, React**
