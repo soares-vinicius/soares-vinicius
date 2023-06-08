@@ -2,7 +2,7 @@
 - 🔥 Front End Developer
 - 🔭 I’m currently working at Freelancer
 - 💬 Ask me about **JavaScript, HTML, CSS, VueJS, React**
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: Gamer Noob
 <br><br>
 <div>
