@@ -1,6 +1,5 @@
 ## Oi, Eu sou o Niu.
-- 🔥 Front End Developer
-- 🔭 I’m currently working at Freelancer
+- 🔥 Software Engineer VueJS | ReactJS | Javascript | Typescript
 - 💬 Ask me about **JavaScript, HTML, CSS, VueJS, React**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Gamer Noob
