@@ -1,4 +1,4 @@
-## Oi, Eu sou o Niu.
+## Oi, Eu sou o Kenai.
 - 🔥 Software Engineer VueJS | ReactJS | Javascript | Typescript
 - 💬 Ask me about **JavaScript, HTML, CSS, VueJS, React**
 - 😄 Pronouns: He / Him
