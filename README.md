@@ -1,4 +1,4 @@
-## Oi, Eu sou o Vinicius ou pede me chamar de "Kenai".
+## Oi, Eu sou o Vinicius ou pode me chamar de "Kenai".
 - 🔥 Software Engineer VueJS | ReactJS | Javascript | Typescript
 - 💬 Ask me about **JavaScript, HTML, CSS, VueJS, React**
 - 😄 Pronouns: He / Him
